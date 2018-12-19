@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f0ab46da5c6304016a39c392e7672773
+timeCreated: 1544630430
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMAO
+  fontNames:
+  - LMAO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0667863805a964aa4bf3b00c489687be, type: 3}
+  - {fileID: 12800000, guid: 31d71ecf1e8784214b363334406e209a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
